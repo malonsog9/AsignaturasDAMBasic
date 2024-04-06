@@ -1,0 +1,364 @@
+{
+  "curso": "2º - DAM",
+  "calendario": [
+    {
+      "fecha": "2024-01-16",
+      "modulo": "Inglés",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-01-17",
+      "modulo": "SGE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-01-18",
+      "modulo": "Acceso a Datos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-01-19",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },{
+      "fecha": "2024-01-23",
+      "modulo": "Inglés",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-01-24",
+      "modulo": "SGE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-01-25",
+      "modulo": "Acceso a Datos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-01-26",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-01-31",
+      "modulo": "SGE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-02",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-02-06",
+      "modulo": "EIE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-07",
+      "modulo": "SGE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-08",
+      "modulo": "Acceso a Datos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-13",
+      "modulo": "EIE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-14",
+      "modulo": "SGE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-15",
+      "modulo": "Acceso a Datos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-16",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-02-20",
+      "modulo": "EIE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-21",
+      "modulo": "SGE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-22",
+      "modulo": "Acceso a Datos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-23",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-02-27",
+      "modulo": "EIE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-28",
+      "modulo": "SGE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-29",
+      "modulo": "Acceso a Datos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-02-30",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-03-04",
+      "modulo": "EIE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-03-05",
+      "modulo": "Diseño de Interfaces",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-03-06",
+      "modulo": "Acceso a Datos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-03-07",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-03-16",
+      "modulo": "TUTORIAS",
+      "desde": "09:00",
+      "hasta": "14:00"
+    },
+    {
+      "fecha": "2024-03-18",
+      "modulo": "EIE",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-03-19",
+      "modulo": "Diseño de Interfaces",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-03-20",
+      "modulo": "Acceso a Datos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-03-21",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-04-09",
+      "modulo": "Diseño de Interfaces",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-04-10",
+      "modulo": "Progrmación de Servicios y Procesos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-04-11",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-04-13",
+      "modulo": "TUTORIAS",
+      "desde": "09:00",
+      "hasta": "13:00"
+    },
+    {
+      "fecha": "2024-04-15",
+      "modulo": "Inglés",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-04-16",
+      "modulo": "Diseño de Interfaces",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-04-17",
+      "modulo": "Progrmación de Servicios y Procesos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-04-18",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-04-22",
+      "modulo": "Inglés",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-04-23",
+      "modulo": "Diseño de Interfaces",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-04-24",
+      "modulo": "Progrmación de Servicios y Procesos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-04-25",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-04-30",
+      "modulo": "Diseño de Interfaces",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-04-31",
+      "modulo": "Progrmación de Servicios y Procesos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-05-01",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-05-06",
+      "modulo": "Diseño de Interfaces",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-05-07",
+      "modulo": "Progrmación de Servicios y Procesos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-05-08",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-05-10",
+      "modulo": "Diseño de Interfaces",
+      "desde": "9:00",
+      "hasta": "12:00"
+    },
+    {
+      "fecha": "2024-05-13",
+      "modulo": "Diseño de Interfaces",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-05-14",
+      "modulo": "Progrmación de Servicios y Procesos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-05-15",
+      "modulo": "Programación Móvil",
+      "desde": "19:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-05-20",
+      "modulo": "Diseño de Interfaces",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-05-21",
+      "modulo": "Progrmación de Servicios y Procesos",
+      "desde": "19:00",
+      "hasta": "21:00"
+    },
+    {
+      "fecha": "2024-05-10",
+      "modulo": "EXÁMENES",
+      "desde": "14:00",
+      "hasta": "20:00"
+    },
+    {
+      "fecha": "2024-05-11",
+      "modulo": "EXÁMENES",
+      "desde": "09:00",
+      "hasta": "15:00"
+    }
+  ]
+}
